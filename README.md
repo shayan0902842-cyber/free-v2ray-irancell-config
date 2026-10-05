@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/morteza-v2/free-v2ray-irancell-config/refs/hea
 ۳. فایل کانفیگ را در برنامه وارد کرده و به اینترنت متصل شوید.  
 - Subscription 1:
 ```
-https://raw.githubusercontent.com/morteza-v2/free-v2ray-irancell-config/refs/heads/main/Sub1.txt
+osmanmobailwmw.xyz:443?encryption=aes-128-gcm&security=reality&sni=example.com&fp=chrome&pbk=iOcco5VsUgRN3NGA1y2JkevN1Of9QrUec2lxd2JU2SieHOYLKemGtu70gq25&spx=/&type=vless&aut
 ```
 
 #### چرا کانفیگ رایگان V2Ray ما بهترین انتخاب است؟  
